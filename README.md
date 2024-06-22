@@ -1,5 +1,5 @@
 # Predicción de tendencias de compras
-<img src="#">
+<img src="imagenes\banner.jpeg">
 
 # Autores
 Sonia Angélica Muñoz Sandoval, Laura Andrea Rodríguez Mejía

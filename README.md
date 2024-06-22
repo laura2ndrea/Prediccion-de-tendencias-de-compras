@@ -19,4 +19,4 @@ Código: https://colab.research.google.com/drive/1kC_33raUVr8aJJ7Z9v0B7OpOxQ-Gdy
 
 Video: https://www.youtube.com/watch?v=QVx6dLzPOcQ
 
-Repositorio: 
+Repositorio: https://github.com/laura2ndrea/Prediccion-de-tendencias-de-compras
